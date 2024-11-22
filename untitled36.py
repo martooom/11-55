@@ -8,7 +8,7 @@ st.markdown(
     f"""
     <style>
     body {{
-        background-image: url('data:image_fondo,{image_valorant}');
+        background-image: url('data:image_fondo,{image_fondo}');
         background-size: cover;
         background-position: center;
         height: 100vh;
